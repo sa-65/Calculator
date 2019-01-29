@@ -15,7 +15,9 @@ public class Calculator {
     }
 
 
-    
+    public static void red(){
+        System.out.println("Switched to red branch");
+    }
 
 
 }
